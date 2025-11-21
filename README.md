@@ -3,7 +3,7 @@
 I'm Guillaume.
 
 - 🚢 Building Agentic AI for maritime operations at [InBridge AI](inbridge.ai)
-- 🐹 Previously Arctic biologist (read my papers: [GScholar](https://scholar.google.com/citations?user=6lpWCo0AAAAJ&hl=en)
+- 🐹 Previously Arctic biologist (read my papers: [GScholar](https://scholar.google.com/citations?user=6lpWCo0AAAAJ&hl=en))
 - 🏕️ Passionate about nature and outdoor sports
 
 ### My go-to tech stack
