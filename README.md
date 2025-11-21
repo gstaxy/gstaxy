@@ -2,8 +2,8 @@
 
 I'm Guillaume.
 
-- 🛠️ Currently building an AI sales platform at [Pod](https://www.workwithpod.com/)
-- 🐹 -> 🤖 Previously biologist, now machine learning engineer
+- 🚢 Building Agentic AI for maritime operations at [InBridge AI](inbridge.ai)
+- 🐹 Previously Arctic biologist (read my papers: [GScholar](https://scholar.google.com/citations?user=6lpWCo0AAAAJ&hl=en)
 - 🏕️ Passionate about nature and outdoor sports
 
 ### My go-to tech stack
